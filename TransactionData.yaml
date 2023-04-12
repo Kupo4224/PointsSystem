@@ -1,0 +1,29 @@
+Transaction #1:
+customerId: 1
+transactionDate: 2023-03-01
+transactionAmount: 150.0
+
+Transaction #2:
+customerId: 1
+transactionDate: 2023-03-15
+transactionAmount: 75.0
+
+Transaction #3:
+customerId: 1
+transactionDate: 2023-04-01
+transactionAmount: 100.0
+
+Transaction #4:
+customerId: 2
+transactionDate: 2023-03-01
+transactionAmount: 50.0
+
+Transaction #5:
+customerId: 2
+transactionDate: 2023-03-15
+transactionAmount: 100.0
+
+Transaction #6:
+customerId: 2
+transactionDate: 2023-04-01
+transactionAmount: 150.0
